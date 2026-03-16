@@ -7,3 +7,6 @@
    git clone https://github.com/GeorgyHub/Diplom_work
 
 ## Установка нужных библиотек
+2. Используйте команду:
+    ```bash
+    pip install requirements.txt
