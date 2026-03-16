@@ -9,7 +9,18 @@
    ```bash
    git clone https://github.com/GeorgyHub/Diplom_work
 
-## Установка нужных библиотек
-2. Используйте команду:
+2. Установите виртуальное окружение:
+   ```bash
+   python -m venv /venv
+
+3. Активируйте виртуальное окружение:
+   ```bash
+   venv/Scripts/Activate.ps1
+
+   Если не через PowerShell, то попробуйте ту команду:
+   ```bash
+   venv/Scripts/Activate.bat
+
+4. Используйте команду:
     ```bash
     pip install requirements.txt
