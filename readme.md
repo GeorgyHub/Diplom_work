@@ -16,8 +16,9 @@
 3. Активируйте виртуальное окружение:
    ```bash
    venv/Scripts/Activate.ps1
+   ```
 
-   Если не через PowerShell, то попробуйте ту команду:
+    Если не через PowerShell, то попробуйте ту команду:
    ```bash
    venv/Scripts/Activate.bat
 
